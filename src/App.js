@@ -23,4 +23,5 @@ const App = () =>{
 
 export default App;
 
-export {FirstName, LastName, nName};
+export {FirstName, LastName, nName
+};
